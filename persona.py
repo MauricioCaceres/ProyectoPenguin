@@ -1,3 +1,3 @@
 #esto es una prueba
-print "Chau mundo"
+print "Estamos aprendiendo a usar github"
 print "Chau chau"
